@@ -1,0 +1,9 @@
+ipykernel
+argparse
+pandas
+nba-api
+matplotlib
+seaborn
+flake8
+tqdm
+nbformat>=4.2.0
